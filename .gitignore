@@ -1,0 +1,11 @@
+# Local OAuth material and credentials
+credentials.json
+client_secret*.json
+token.json
+*.token
+.env
+
+# Python local runtime artifacts
+.venv/
+__pycache__/
+*.py[cod]

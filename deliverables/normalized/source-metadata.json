@@ -1,0 +1,29 @@
+{
+  "budget": {
+    "fetched_at": "2026-11-21T04:38:37.560161Z",
+    "identity": "Project A \u2014 Budget Targets",
+    "modified_time": "2026-10-22T07:22:58.964Z",
+    "row_count": 10,
+    "tab": "Budget targets",
+    "url": "https://docs.google.com/spreadsheets/d/1pnHBrxWvZBDIQItyxhmaSUZBxF8VMYqo_fyN7JtgyA4",
+    "version": "152"
+  },
+  "revenue": {
+    "fetched_at": "2026-11-21T04:38:39.734984Z",
+    "identity": "Project A \u2014 Revenue Snapshot",
+    "modified_time": "2026-10-22T07:23:09.755Z",
+    "row_count": 25,
+    "tab": "Revenue snapshot",
+    "url": "https://docs.google.com/spreadsheets/d/1DToTpZtuwtVIdCPethZRe4T-y6mxGpWuivWSmR2XZt4",
+    "version": "140"
+  },
+  "transactions": {
+    "fetched_at": "2026-11-21T04:38:35.686859Z",
+    "identity": "Project A \u2014 Transaction Ledger",
+    "modified_time": "2026-10-22T19:34:31.350Z",
+    "row_count": 70,
+    "tab": "Transaction ledger",
+    "url": "https://docs.google.com/spreadsheets/d/16HhjfR9uG1oUwSFNjQvAvU9Q9gVjzxL0ufBzTJe82v8",
+    "version": "174"
+  }
+}

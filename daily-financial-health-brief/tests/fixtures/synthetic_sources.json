@@ -1,0 +1,14 @@
+{
+  "transactions": [
+    {"transaction_id": "synthetic-tx-1", "date": "2026-11-20", "account": "test", "category": "test", "description": "posted example", "amount": "0.30", "currency": "USD", "status": "posted", "source": "SYNTHETIC_FIXTURE", "source_version": "fixture-v1", "amount_status": "known"},
+    {"transaction_id": "synthetic-tx-2", "date": "2026-11-20", "account": "test", "category": "test", "description": "unknown pending example", "amount": "", "currency": "USD", "status": "pending", "source": "SYNTHETIC_FIXTURE", "source_version": "fixture-v1", "amount_status": "unknown"},
+    {"transaction_id": "synthetic-tx-3", "date": "2026-11-20", "account": "test", "category": "test", "description": "disputed example", "amount": "700.00", "currency": "USD", "status": "disputed", "source": "SYNTHETIC_FIXTURE", "source_version": "fixture-v1", "amount_status": "known"}
+  ],
+  "budget": [
+    {"period": "2026-11", "category": "test", "budget_amount": "1000.00", "currency": "USD", "owner": "synthetic", "review_rule": "synthetic only", "source": "SYNTHETIC_FIXTURE", "source_version": "fixture-v1"}
+  ],
+  "revenue": [
+    {"date": "2026-11-20", "source": "SYNTHETIC_FIXTURE", "metric": "revenue", "value": "10.25", "currency": "USD", "source_version": "fixture-v1"},
+    {"date": "2026-11-19", "source": "SYNTHETIC_FIXTURE", "metric": "outstanding_balance", "value": "", "currency": "USD", "source_version": "fixture-v1"}
+  ]
+}
